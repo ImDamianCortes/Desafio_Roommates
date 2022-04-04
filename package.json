@@ -1,0 +1,19 @@
+{
+  "name": "9.-prueba_roommates",
+  "version": "1.0.0",
+  "description": "Prueba Modulo 6",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ImDamian",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "uuid": "^8.3.2"
+  }
+}
